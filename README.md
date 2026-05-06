@@ -7,8 +7,15 @@ This project explores the design and construction of a **Portable Audio-Driven S
 
 By applying controlled audio frequencies to a steel plate, salt particles move and settle into nodal patterns, revealing how wave behavior operates in a physical system. While inspired by traditional Chladni plate experiments, this project focuses on building a **low-cost, portable, and self-constructed version** using accessible materials.
 
+This repository includes:
+- Images of pattern formation at different frequencies  
+- Videos demonstrating real-time vibration effects  
+- DevLogs documenting iterative progress and experimentation 
 
-![Final Version in Action](images/final_prototype_demo.png)
+---
+ ## Final Prototype
+ Below is the final prototype in action, showcasing the system's ability to create visible patterns through sound-induced vibrations.
+![Demo animation](images/demo.gif)
 *Figure 1: The completed portable sand wave visualizer in operation*
 ---
 
@@ -28,7 +35,6 @@ The concept connects directly to course themes of:
 A key focus was understanding how **resonance** determines whether patterns form at all.
 
 ---
-
 
 ## Objectives
 - Build a functional Chladni board using accessible materials  
@@ -50,46 +56,48 @@ A key focus was understanding how **resonance** determines whether patterns form
 - Bottle cap (makeshift transducer component)  
 - Hot glue  
 
-
-
-## Initial Components
+### Construction Process
+1. **Speaker Preparation**: I started by repurposing a thrifted speaker, removing the cone to allow for direct vibration of the steel plate.
 
 ![Initial Speaker](images/initial_speaker.png)
-*Figure 1: Thrifted speaker used as the base of the system.*
+*Figure 2: Thrifted speaker used as the base of the system.*
 
-I started with a repurposed speaker and amplifier as the core sound generation unit.
+![Initial Speaker](images/initial_speaker.png)
+*Figure 3: Speaker after cone removal*
 
 
-![Initial Signal Generator](images/initial_signal.png)
+2. **Amplifier Circuit**: I built a simple amplifier circuit to boost the signal from the generator, ensuring it was strong enough to cause visible vibrations in the steel plate.
 
-I used a signal generator to produce the desired frequencies, which were then amplified and fed into the speaker.
-
+I quickly prototyped the amplifier on a breadboard, using basic components to achieve the necessary gain.
 ![Breadboard Amplifier Circuit](images/amplifier_circuit.png)
 
-I constructed a simple amplifier circuit on a breadboard to boost the signal from the generator to a level sufficient to cause visible vibrations in the steel plate.
 
-![Soldered Amplifier Circuit](images/soldered_amplifier_circuit.png)
-
-After testing the breadboard circuit, I soldered the components onto a more permanent board to ensure stability and reliability during operation.
-
+Then I soldered the components onto a perfboard for a more permanent solution, ensuring reliable connections for the final setup.
+![Breadboard Amplifier Circuit](images/soldered_amplifier.png)
+*Figure 4: Amplifier circuit soldered onto perfboard for stability.*
 
 
+3. **Making Transducer**: I created a makeshift transducer using a bottle cap and hot glue to connect the speaker's vibration to the steel plate effectively, then I put a screw through the center of the cap to secure it to the plate, allowing for better transmission of vibrations.
+
+4. **Mounting the Plate**: I securely mounted the steel plate onto the speaker using bolts and washers, ensuring good contact for effective vibration transmission.
+
+I made a prototype mounting structure using scrap box and a no tresspassing sign, which provided a stable base for the plate while allowing for adjustments to optimize vibration.
+![Mounting Structure Plate](images/mounting_structure.png)
+*Figure 5: Initial mounting structure for the steel plate, using scrap materials.*
 
 
----
+5. **Testing & Iteration**: I experimented with different frequencies and amplitudes, adjusting the setup to optimize pattern visibility while managing the limitations of the materials.
+![Mounting Structure Patterns](images/initial_patterns.png)
+*Figure 6: Testing different frequencies to observe pattern formation on the steel plate.*
 
-## Process & Iterative Development
+6. **Corrections**: Once I realized the patterns and setup wasn't as stable then, I made several adjustments to improve the system's performance. I also spray painted the mounting structure to make the patterns more visible.
+![Mounting Structure Correction](images/new_structure.png)
+*Figure 7: Adjusting the mounting structure to improve stability and pattern visibility.*
 
-### Milestone 1: Initial Build (Proof of Concept)
-The first phase focused on assembling a working system.
 
-**Results:**
-- Weak and inconsistent vibrations  
-- Sand showed minimal movement  
-- No clear patterns formed  
 
-**Insight:**  
-Simply applying sound is not enough—without proper resonance and sufficient energy transfer, the system does not respond meaningfully.
+
+
 
 ---
 
@@ -100,13 +108,7 @@ Simply applying sound is not enough—without proper resonance and sufficient en
 - Salt:  From lcoal store 3
 - Mounting structure: Aces Hardware, Havitat for humanities.  
 
----
- 
-## Documentation & Media
-This repository includes:
-- Images of pattern formation at different frequencies  
-- Videos demonstrating real-time vibration effects  
-- DevLogs documenting iterative progress and experimentation  
+
 
 ---
 
