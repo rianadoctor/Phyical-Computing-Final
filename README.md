@@ -62,7 +62,7 @@ A key focus was understanding how **resonance** determines whether patterns form
 ![Initial Speaker](images/initial_speaker.png)
 *Figure 2: Thrifted speaker used as the base of the system.*
 
-![Initial Speaker](images/initial_speaker.png)
+![Initial Speaker](images/removed.png)
 *Figure 3: Speaker after cone removal*
 
 
@@ -70,10 +70,11 @@ A key focus was understanding how **resonance** determines whether patterns form
 
 I quickly prototyped the amplifier on a breadboard, using basic components to achieve the necessary gain.
 ![Breadboard Amplifier Circuit](images/amplifier_circuit.png)
+*Figure 3: Initial amplifier circuit prototyped on a breadboard.*
 
 
 Then I soldered the components onto a perfboard for a more permanent solution, ensuring reliable connections for the final setup.
-![Breadboard Amplifier Circuit](images/soldered_amplifier.png)
+![Breadboard Amplifier Circuit](images/soldered_amplifier_circuit.png)
 *Figure 4: Amplifier circuit soldered onto perfboard for stability.*
 
 
@@ -87,17 +88,12 @@ I made a prototype mounting structure using scrap box and a no tresspassing sign
 
 
 5. **Testing & Iteration**: I experimented with different frequencies and amplitudes, adjusting the setup to optimize pattern visibility while managing the limitations of the materials.
-![Mounting Structure Patterns](images/initial_patterns.png)
+![Mounting Structure Patterns](images/initial_pattern.png)
 *Figure 6: Testing different frequencies to observe pattern formation on the steel plate.*
 
 6. **Corrections**: Once I realized the patterns and setup wasn't as stable then, I made several adjustments to improve the system's performance. I also spray painted the mounting structure to make the patterns more visible.
 ![Mounting Structure Correction](images/new_structure.png)
 *Figure 7: Adjusting the mounting structure to improve stability and pattern visibility.*
-
-
-
-
-
 
 ---
 
@@ -107,8 +103,6 @@ I made a prototype mounting structure using scrap box and a no tresspassing sign
 - Frequency generator (software/tool): Provided by Dr.Mundy 
 - Salt:  From lcoal store 3
 - Mounting structure: Aces Hardware, Havitat for humanities.  
-
-
 
 ---
 
@@ -142,12 +136,13 @@ This project created a deeper understanding of how theoretical concepts behave i
 The most valuable outcome was not just producing patterns, but understanding why they form—and why they sometimes do not.
 
 ---
+## Demo 
 
-## Demo
+![Demo animation](images/demo.gif)
+*Figure 1: The completed portable sand wave visualizer in operation*
 
 ---
-
 ## Creator Statement
 
-
+This project was an opportunity to explore the intersection of sound, vibration, and visual patterns through a hands-on approach. I was inspired by the Chladni plate experiments and wanted to create a portable, low-cost version that could be easily replicated and understood. Through this project, I aimed to deepen my understanding of resonance and wave behavior while also developing practical skills in circuit design, prototyping, and iterative development. The process was both challenging and rewarding, as it required me to troubleshoot and adapt my design based on real-world results. Overall, this project has been a valuable learning experience that has enhanced my appreciation for the complexities of physical systems and the importance of experimentation in engineering.
 ---
