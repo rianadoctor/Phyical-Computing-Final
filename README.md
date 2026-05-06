@@ -128,6 +128,11 @@ Once I realized the patterns and setup weren't as stable as needed, I made sever
 
 The project successfully demonstrates how resonance produces visible nodal patterns. While intricate patterns were difficult to achieve, the system effectively illustrates the relationship between sound frequency and physical structure.
 
+
+![Demo animation](images/demo.gif)
+
+*Figure 10: The completed portable sand wave visualizer in operation*
+
 ---
 
 ## Key Learning: Resonance
@@ -158,8 +163,3 @@ The most valuable outcome was not just producing patterns, but understanding **w
 
 ---
 
-## Demo
-
-![Demo animation](images/demo.gif)
-
-*Figure 10: The completed portable sand wave visualizer in operation*
