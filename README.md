@@ -8,7 +8,7 @@ This project explores the design and construction of a **Portable Audio-Driven S
 By applying controlled audio frequencies to a steel plate, salt particles move and settle into nodal patterns, revealing how wave behavior operates in a physical system. While inspired by traditional Chladni plate experiments, this project focuses on building a **low-cost, portable, and self-constructed version** using accessible materials.
 
 
-![Final Version in Action](images/final_prototype_demo.jpg)
+![Final Version in Action](images/final_prototype_demo.png)
 *Figure 1: The completed portable sand wave visualizer in operation*
 ---
 
@@ -54,7 +54,7 @@ A key focus was understanding how **resonance** determines whether patterns form
 
 ## Initial Components
 
-![Initial Speaker](images/initial_speaker.jpg)
+![Initial Speaker](images/initial_speaker.png)
 
 *Figure 1: Thrifted speaker used as the base of the system.*
 
