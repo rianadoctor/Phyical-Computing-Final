@@ -31,6 +31,10 @@ Below is the final prototype in action, showcasing the system's ability to creat
 
 This project is inspired by Chladni plate experiments, which demonstrate how sound waves create geometric patterns on vibrating surfaces.
 
+[Inspiration](images/inspiration.png)
+*Figure 1: Chladni plate patterns as inspiration for this project*
+
+
 Rather than directly replicating the original setup, this project reinterprets the idea through:
 - Portable design constraints
 - Improvised materials and hardware
