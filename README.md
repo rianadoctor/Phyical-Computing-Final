@@ -64,36 +64,38 @@ A key focus was understanding how **resonance** determines whether patterns form
 ![Initial Speaker](images/initial_speaker.png)
 *Figure 2: Thrifted speaker used as the base of the system.*
 
-![Initial Speaker](images/removed.png)
+![Initial Speaker Cone](images/removed.png)
 *Figure 3: Speaker after cone removal*
 
+2. **Signal Generation**: I used a signal generator to produce the desired frequencies, which were then fed into the amplifier circuit to drive the speaker.
+![Signal Generator](images/sig.png) 
+*Figure 4: Signal generator used for frequency control*
 
-2. **Amplifier Circuit**: I built a simple amplifier circuit to boost the signal from the generator, ensuring it was strong enough to cause visible vibrations in the steel plate.
+3. **Amplifier Circuit**: I built a simple amplifier circuit to boost the signal from the generator, ensuring it was strong enough to cause visible vibrations in the steel plate.
 
 I quickly prototyped the amplifier on a breadboard, using basic components to achieve the necessary gain.
 ![Breadboard Amplifier Circuit](images/amplifier_circuit.png)
 *Figure 3: Initial amplifier circuit prototyped on a breadboard.*
-
 
 Then I soldered the components onto a perfboard for a more permanent solution, ensuring reliable connections for the final setup.
 ![Breadboard Amplifier Circuit](images/soldered_amplifier_circuit.png)
 *Figure 4: Amplifier circuit soldered onto perfboard for stability.*
 
 
-3. **Making Transducer**: I created a makeshift transducer using a bottle cap and hot glue to connect the speaker's vibration to the steel plate effectively, then I put a screw through the center of the cap to secure it to the plate, allowing for better transmission of vibrations.
+4. **Making Transducer**: I created a makeshift transducer using a bottle cap and hot glue to connect the speaker's vibration to the steel plate effectively, then I put a screw through the center of the cap to secure it to the plate, allowing for better transmission of vibrations.
 
-4. **Mounting the Plate**: I securely mounted the steel plate onto the speaker using bolts and washers, ensuring good contact for effective vibration transmission.
+5. **Mounting the Plate**: I securely mounted the steel plate onto the speaker using bolts and washers, ensuring good contact for effective vibration transmission.
 
 I made a prototype mounting structure using scrap box and a no tresspassing sign, which provided a stable base for the plate while allowing for adjustments to optimize vibration.
 ![Mounting Structure Plate](images/mounting_structure.png)
 *Figure 5: Initial mounting structure for the steel plate, using scrap materials.*
 
 
-5. **Testing & Iteration**: I experimented with different frequencies and amplitudes, adjusting the setup to optimize pattern visibility while managing the limitations of the materials.
+6. **Testing & Iteration**: I experimented with different frequencies and amplitudes, adjusting the setup to optimize pattern visibility while managing the limitations of the materials.
 ![Mounting Structure Patterns](images/initial_pattern.png)
 *Figure 6: Testing different frequencies to observe pattern formation on the steel plate.*
 
-6. **Corrections**: Once I realized the patterns and setup wasn't as stable then, I made several adjustments to improve the system's performance. I also spray painted the mounting structure to make the patterns more visible.
+7. **Corrections**: Once I realized the patterns and setup wasn't as stable then, I made several adjustments to improve the system's performance. I also spray painted the mounting structure to make the patterns more visible.
 ![Mounting Structure Correction](images/new_structure.png)
 *Figure 7: Adjusting the mounting structure to improve stability and pattern visibility.*
 
