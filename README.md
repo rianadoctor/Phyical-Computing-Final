@@ -55,10 +55,25 @@ A key focus was understanding how **resonance** determines whether patterns form
 ## Initial Components
 
 ![Initial Speaker](images/initial_speaker.png)
-
 *Figure 1: Thrifted speaker used as the base of the system.*
 
 I started with a repurposed speaker and amplifier as the core sound generation unit.
+
+
+![Initial Signal Generator](images/initial_signal.png)
+
+I used a signal generator to produce the desired frequencies, which were then amplified and fed into the speaker.
+
+![Breadboard Amplifier Circuit](images/amplifier_circuit.png)
+
+I constructed a simple amplifier circuit on a breadboard to boost the signal from the generator to a level sufficient to cause visible vibrations in the steel plate.
+
+![Soldered Amplifier Circuit](images/soldered_amplifier_circuit.png)
+
+After testing the breadboard circuit, I soldered the components onto a more permanent board to ensure stability and reliability during operation.
+
+
+
 
 
 ---
