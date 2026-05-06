@@ -38,7 +38,7 @@ This project is inspired by Chladni plate experiments, which demonstrate how sou
 Rather than directly replicating the original setup, this project reinterprets the idea through:
 - Portable design constraints
 - Improvised materials and hardware
-- Focus on real-world resonance behavior
+- A focus on understanding the underlying physics of resonance and wave behavior
 
 The concept connects directly to course themes of:
 - Physical computing
