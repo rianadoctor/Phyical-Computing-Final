@@ -22,11 +22,11 @@ The goal of this stage was to improve system stability and determine whether con
 ---
 
 ## Key Insight: Resonance Emerges Here
-This stage made it clear that **resonance is not continuous—it is selective**.
+This stage made it clear that **resonance is not continuous and that it's selective**.
 
 Only specific frequencies caused the system to “lock in” and produce structure. This showed that:
 
-> The system is not reacting to sound in general—it is responding only when conditions align with its natural frequencies.
+> The system is not reacting to sound in general because it's responding only when conditions align with it's natural frequencies.
 
 ---
 

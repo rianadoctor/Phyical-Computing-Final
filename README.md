@@ -13,10 +13,12 @@ This repository includes:
 - DevLogs documenting iterative progress and experimentation 
 
 ---
+
  ## Final Prototype
  Below is the final prototype in action, showcasing the system's ability to create visible patterns through sound-induced vibrations.
 ![Demo animation](images/demo.gif)
 *Figure 1: The completed portable sand wave visualizer in operation*
+
 ---
 
 ## Concept & Inspiration
@@ -142,7 +144,4 @@ The most valuable outcome was not just producing patterns, but understanding why
 *Figure 1: The completed portable sand wave visualizer in operation*
 
 ---
-## Creator Statement
 
-This project was an opportunity to explore the intersection of sound, vibration, and visual patterns through a hands-on approach. I was inspired by the Chladni plate experiments and wanted to create a portable, low-cost version that could be easily replicated and understood. Through this project, I aimed to deepen my understanding of resonance and wave behavior while also developing practical skills in circuit design, prototyping, and iterative development. The process was both challenging and rewarding, as it required me to troubleshoot and adapt my design based on real-world results. Overall, this project has been a valuable learning experience that has enhanced my appreciation for the complexities of physical systems and the importance of experimentation in engineering.
----
