@@ -62,9 +62,11 @@ A key focus was understanding how **resonance** determines whether patterns form
 1. **Speaker Preparation**: I started by repurposing a thrifted speaker, removing the cone to allow for direct vibration of the steel plate.
 
 ![Initial Speaker](images/initial_speaker.png)
+
 *Figure 2: Thrifted speaker used as the base of the system.*
 
 ![Initial Speaker Cone](images/removed.png)
+
 *Figure 3: Speaker after cone removal*
 
 2. **Signal Generation**: I used a signal generator to produce the desired frequencies, which were then fed into the amplifier circuit to drive the speaker.
@@ -140,10 +142,9 @@ This project created a deeper understanding of how theoretical concepts behave i
 The most valuable outcome was not just producing patterns, but understanding why they form—and why they sometimes do not.
 
 ---
-## Demo 
+## Demo  
 
 ![Demo animation](images/demo.gif)
-*Figure 1: The completed portable sand wave visualizer in operation*
 
 ---
 
