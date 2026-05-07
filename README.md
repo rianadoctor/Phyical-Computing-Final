@@ -6,7 +6,7 @@
 
 ## Overview
 
-This project explores the design and construction of a **Portable Audio-Driven Sand/Salt Wave Visualizer** — a system that makes sound vibrations visible through pattern formation on a vibrating surface.
+This project explores the design and construction of a **Portable Audio-Driven Sand/Salt Wave Visualizer** This is a system that makes sound vibrations visible through pattern formation on a vibrating surface.
 
 By applying controlled audio frequencies to a steel plate, salt particles move and settle into nodal patterns, revealing how wave behavior operates in a physical system. While inspired by traditional Chladni plate experiments, this project focuses on building a **low-cost, portable, and self-constructed version** using accessible materials.
 
@@ -24,6 +24,9 @@ Below is the final prototype in action, showcasing the system's ability to creat
 ![Demo animation](images/demo.gif)
 
 *Figure 1: The completed portable sand wave visualizer in operation*
+
+[Link To Demo](https://youtu.be/oNtWZg_boQI)
+
 
 ---
 
