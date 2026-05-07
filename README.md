@@ -106,6 +106,10 @@ Then I soldered the components onto a perfboard for a more permanent solution, e
 **4. Making the Transducer**  
 I created a makeshift transducer using a bottle cap and hot glue to connect the speaker's vibration to the steel plate effectively. A screw through the center of the cap secures it to the plate, allowing for better transmission of vibrations.
 
+![Transducer Sketch](images/transducer_sketch.png)  
+*Figure 7: Sketch of the transducer design*
+
+
 **5. Mounting the Plate**  
 I securely mounted the steel plate onto the speaker using bolts and washers, ensuring good contact for effective vibration transmission.
 
