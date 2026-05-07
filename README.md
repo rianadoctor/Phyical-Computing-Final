@@ -116,7 +116,7 @@ I securely mounted the steel plate onto the speaker using bolts and washers, ens
 I made a prototype mounting structure using a scrap box and a "No Trespassing" sign, which provided a stable base while allowing adjustments to optimize vibration.
 
 ![Mounting Structure Plate](images/mounting_structure.png)  
-*Figure 7: Initial mounting structure using scrap materials*
+*Figure 8: Initial mounting structure using scrap materials*
 
 **6. Testing & Iteration**  
 I experimented with different frequencies and amplitudes, adjusting the setup to optimize pattern visibility while managing material limitations.
